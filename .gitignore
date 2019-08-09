@@ -1,0 +1,10 @@
+# editors
+.vscode/
+
+# virtualenvs
+venv/
+
+__pycache__
+
+# etc
+*.txt
